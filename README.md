@@ -1,9 +1,9 @@
 ## Hey 👋, I'm VolxE
 
-Hi there, I'm **VolxE**, a **Student**.
+Hi there, i'm using whats.... hmm sorry i mean is Hi I'm **Volxe**, a **Student** and **a funny one***.
 
 
-I love programming and I love Swift.
+I love programming and I love You 😳.
 
 ### Talking about Personal Stuffs:
 
