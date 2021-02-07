@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hey 👋, I'm VolxE
 
-<!--
-**VolxE/Volxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm **VolxE**, a **Student**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love programming and I love Swift.
+
+### Talking about Personal Stuffs:
+
+
+### Languages and Tools:
+
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)\
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+
+
+### My GitHub Stats
+
+![VolxE's github stats](https://github-readme-stats.vercel.app/api?username=VolxE&show_icons=true)
+
+⭐️ From [VolxE](https://github.com/VolxE)
