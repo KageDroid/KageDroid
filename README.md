@@ -1,6 +1,6 @@
-## Hey 👋, I'm VolxE
+## Hey 👋, I'm KageDroid
 
-Hi there, i'm using whats.... hmm sorry i mean is Hi I'm **Volxe**, a **Student** and **a handsome person**.
+Hi there, i'm using whats.... hmm sorry i mean is Hi I'm **KageDroid**, a **Student** and **a handsome person**.
 
 
 I love programming and I love You 😳.
@@ -17,6 +17,6 @@ I love programming and I love You 😳.
 
 ### My GitHub Stats
 
-![VolxE's github stats](https://github-readme-stats.vercel.app/api?username=VolxE&show_icons=true)
+![VolxE's github stats](https://github-readme-stats.vercel.app/api?username=KageDroid&show_icons=true)
 
-⭐️ From [VolxE](https://github.com/VolxE)
+⭐️ From [KageDroid](https://github.com/KageDroid)
